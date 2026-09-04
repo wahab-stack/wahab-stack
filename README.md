@@ -7,7 +7,7 @@
 <p>
   <em>
     Software Engineering graduate focused on building practical, scalable,
-    and user-friendly web and mobile applications.
+    and user-friendly web applications and mobile applications.
   </em>
 </p>
 
