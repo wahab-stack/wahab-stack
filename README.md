@@ -3,6 +3,7 @@
 # Hi, I'm Abdul Wahab 👋
 
 ### MERN Stack & Flutter Developer
+### Ai Builder (n8n)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Crafting+Apps+with+Flutter;Turning+Ideas+Into+Working+Software" alt="Typing SVG"/>
 
@@ -162,7 +163,7 @@ A full-stack business management system built for a steel/iron warehouse, coveri
 ## 🌱 Currently Learning
 
 - ⚛️ React.js
-- 📱 Advanced Flutter
+- 📱 Advanced Flutter 
 - 🏗️ REST API Architecture & System Design
 - 🗄️ Database Optimization
 - ☁️ Scalable Backend Architecture & Deployment
