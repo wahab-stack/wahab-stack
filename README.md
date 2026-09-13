@@ -172,7 +172,7 @@ I'm a **Software Engineering graduate** and passionate **Full-Stack Developer** 
 
 ### 🎯 Goals
 - 🚀 Launch production-ready MERN applications
-- 📱 Build scalable Flutter apps with clean architecture
+- 📱 Build scalable Flutter apps with clean architectures
 - 🤝 Contribute to open-source projects
 - 💼 Collaborate with teams on real-world software
 - 📈 Strengthen backend development & API design
