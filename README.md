@@ -97,7 +97,7 @@ I'm a **Software Engineering graduate** and **Full-Stack Developer** with a knac
 > **Production-grade business management system** built for a steel/iron warehouse, handling everything from purchasing to sales with real-time financial tracking.
 
 **Key Modules:**
-- 👥 Customer Management & Supplier Management
+- 👥 Customer & Supplier Management
 - 📦 Product & Inventory Management
 - 🚚 Purchase Order & Roll Receiving
 - 💰 Sales & Financial Ledger Management
